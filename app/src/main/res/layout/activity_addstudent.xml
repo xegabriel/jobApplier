@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
+
+    <LinearLayout android:id="@+id/linearContainer" style="@style/linearContainer">
+
+        <RelativeLayout
+            android:id="@+id/addStudentRoot"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/profilePic"
+                style="@style/profilePic" />
+
+            <EditText
+                android:id="@+id/lastName"
+                style="@style/inputBox"
+                android:hint="@string/lastName"
+                android:inputType="textCapWords" />
+
+            <EditText
+                android:id="@+id/firstName"
+                style="@style/inputBox"
+                android:layout_below="@id/lastName"
+                android:hint="@string/firstName"
+                android:inputType="textCapWords" />
+
+            <EditText
+                android:id="@+id/email"
+                style="@style/inputBox"
+                android:layout_below="@id/firstName"
+                android:hint="@string/email"
+                android:inputType="textEmailAddress" />
+
+            <EditText
+                android:id="@+id/phone"
+                style="@style/inputBox"
+                android:layout_below="@id/email"
+                android:hint="@string/phone"
+                android:inputType="phone" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/universitySubtitle"
+            style="@style/subtitle"
+            android:text="@string/q1" />
+
+        <RadioGroup
+            android:id="@+id/schoolRG"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                style="@style/radioButton"
+                android:text="@string/school1" />
+
+            <RadioButton
+                style="@style/radioButton"
+                android:text="@string/school2" />
+
+            <RadioButton
+                style="@style/radioButton"
+                android:text="@string/school3" />
+        </RadioGroup>
+
+        <TextView
+            style="@style/subtitle"
+            android:text="@string/q2" />
+
+        <LinearLayout
+            style="@style/cbContainer"
+            android:layout_marginTop="@dimen/margin">
+
+            <CheckBox
+                android:id="@+id/cb0"
+                style="@style/checkBox"
+                android:text="@string/cb0" />
+
+            <CheckBox
+                android:id="@+id/cb1"
+                style="@style/checkBox"
+                android:text="@string/cb1" />
+        </LinearLayout>
+
+        <LinearLayout style="@style/cbContainer">
+
+            <CheckBox
+                android:id="@+id/cb2"
+                style="@style/checkBox"
+                android:text="@string/cb2" />
+
+            <CheckBox
+                android:id="@+id/cb3"
+                style="@style/checkBox"
+                android:text="@string/cb3" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/confirmationSubtitle"
+            style="@style/subtitle"
+            android:text="@string/q3" />
+
+        <RelativeLayout style="@style/q3Container">
+
+            <Switch
+                android:id="@+id/sw"
+                style="@style/sw" />
+
+            <ImageView style="@style/imageAndroid" />
+        </RelativeLayout>
+
+        <Button style="@style/submit" android:id="@+id/submit" />
+    </LinearLayout>
+</ScrollView>

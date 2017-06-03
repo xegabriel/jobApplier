@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_knowledge"
+        style="@style/sl_knowledge"
+        android:src="@drawable/user_profile_icon"/>
+
+        <TextView
+            android:id="@+id/tv_name"
+            style="@style/sl_name" />
+
+        <TextView
+            android:id="@+id/tv_college"
+            style="@style/sl_college" />
+<ImageView
+    android:id="@+id/iv_phone"
+    style="@style/sl_phone"/>
+</RelativeLayout>

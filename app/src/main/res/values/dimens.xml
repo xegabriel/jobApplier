@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">16dp</dimen>
+    <dimen name="margin2">8dp</dimen>
+    <dimen name="margin3">4dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="padding2">8dp</dimen>
+    <dimen name="buttonTextSize">16sp</dimen>
+    <dimen name="cvHeight">380dp</dimen>
+    <dimen name="imageHeight">250dp</dimen>
+    <dimen name="titleSize">22sp</dimen>
+    <dimen name="descriptionSize">14sp</dimen>
+    <dimen name="inputBoxThickness">1dp</dimen>
+    <dimen name="subtitleSize">16sp</dimen>
+    <dimen name="androidSize">80dp</dimen>
+    <dimen name="phoneSize">50dp</dimen>
+    <dimen name="listTextSize">16sp</dimen>
+    <dimen name="showSize">18sp</dimen>
+</resources>

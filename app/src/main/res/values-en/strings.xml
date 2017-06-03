@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="addStudent">Add intern</string>
+    <string name="canceled">Your application was canceled! Thank you!</string>
+    <string name="email">Email</string>
+    <string name="firstName">First name</string>
+    <string name="incomplet">All fields are required!</string>
+    <string name="invalidEmail">Please use a valid email!</string>
+    <string name="lastName">Last name</string>
+    <string name="loginError">Connection error</string>
+    <string name="noEntries">There are no entries</string>
+    <string name="notqualified">Thank you for your interest, but unfortunately you do not qualify for our positions.</string>
+    <string name="phone">Phone number</string>
+    <string name="q1">University</string>
+    <string name="q2">Skills</string>
+    <string name="q3">Confirm your application</string>
+    <string name="school1">University of Bucharest</string>
+    <string name="school2">UPB</string>
+    <string name="school3">University of Pitesti</string>
+    <string name="sent">You applied successfully!</string>
+    <string name="studentsList">Interns list</string>
+    <string name="submit">Save</string>
+    <string name="updated">The information has been updated!</string>
+</resources>

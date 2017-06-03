@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "253867427891",
+    "firebase_url": "https://jobapplier-beff6.firebaseio.com",
+    "project_id": "jobapplier-beff6",
+    "storage_bucket": "jobapplier-beff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253867427891:android:f92297d6fd4f4c03",
+        "android_client_info": {
+          "package_name": "com.mihailproductions.jobapplier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253867427891-qecoq8a4g3m9vfh76bjha2sq2gu8b98e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mihailproductions.jobapplier",
+            "certificate_hash": "59ac1ca755ef0b26eddca9fd24911d3246b58e1b"
+          }
+        },
+        {
+          "client_id": "253867427891-q9t77kdbli2pvaml9p1miiq79j7h2c5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWeh78AbDva9JbE3tsaYiQ80t_aWUc4Yw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253867427891-q9t77kdbli2pvaml9p1miiq79j7h2c5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

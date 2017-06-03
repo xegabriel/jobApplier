@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#0097A7</color>
+    <color name="colorLightPrimary">#B2EBF2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTitle">#222222</color>
+    <color name="colorDescription">#666666</color>
+    <color name="colorInputBox">#00000000</color>
+    <color name="colorInputBoxStroke">#999999</color>
+    <color name="colorHint">#B6B6B6</color>
+    <color name="colorTint">#999999</color>
+    <color name="colorSubtitle">#555555</color>
+    <color name="colorPhone">#4889e6</color>
+    <color name="colorListText">#000000</color>
+</resources>

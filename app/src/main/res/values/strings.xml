@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Job Applier</string>
+    <string name="lastName">Nume</string>
+    <string name="firstName">Prenume</string>
+    <string name="email">Email</string>
+    <string name="phone">Numar telefon</string>
+    <string name="q1">Universitate</string>
+    <string name="q2">Cunostinte</string>
+    <string name="q3">Confirma aplicarea</string>
+    <string name="school1">Universitatea din Bucuresti</string>
+    <string name="school2">Politehnica</string>
+    <string name="school3">Universitatea din Pitesti</string>
+    <string name="cb0" translatable="false">OOP</string>
+    <string name="cb1" translatable="false">C/C++</string>
+    <string name="cb2" translatable="false">Java</string>
+    <string name="cb3" translatable="false">C#</string>
+    <string name="submit">Salveaza</string>
+    <string name="canceled">Aplicarea dumneavoastra a fost anulata! Va multumim!</string>
+    <string name="incomplet">Va rugam completati toate campurile!</string>
+    <string name="notqualified">Va multumim pentru interes, dar din pacate nu va calificati pentru pozitiile noastre.</string>
+    <string name="sent">Ati aplicat cu success!</string>
+    <string name="studentsList">Lista interni</string>
+    <string name="addStudent">Adaugare intern</string>
+    <string name="updated">Informatiile au fost actualizate!</string>
+    <string name="invalidEmail">Va rugam sa folositi un email valid!</string>
+    <string name="noEntries">Nu exista inregistrari</string>
+    <string name="loginError">Eroare conexiune!</string>
+</resources>
