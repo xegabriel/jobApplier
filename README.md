@@ -1,4 +1,6 @@
 # jobApplier
+## Preview
+![alt text](https://raw.githubusercontent.com/1Mihail/jobApplier/master/Preview.gif)
 ## Functionality
 * Google login using firebase.
 * Loading logo using Picasso.
